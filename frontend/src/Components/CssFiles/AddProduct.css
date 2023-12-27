@@ -1,0 +1,15 @@
+body{
+    display: block;
+    color: rgb(11, 10, 10);
+    align-items: center;
+}
+
+.addProduct{
+    align-items: center;
+    margin-left: 450px
+}
+
+#addProductButton{
+    font-size: 15px;
+   
+}

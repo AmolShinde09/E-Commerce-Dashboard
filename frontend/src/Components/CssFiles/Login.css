@@ -1,0 +1,17 @@
+
+.login{
+    align-items: center;
+    margin-left: 300px;
+    font-size: 20px;
+    padding: 0px;
+
+}
+button{
+    margin-left: 00px;
+}
+input{
+    /* font-size: 20px; */
+    width: 300px;
+    height: 30px;
+    border: 1px solid rgb(126, 45, 207);
+}

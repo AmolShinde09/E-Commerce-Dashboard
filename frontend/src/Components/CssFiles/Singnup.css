@@ -1,0 +1,32 @@
+
+body{
+    color: wheat;
+}
+h1{
+    margin-left: 300px;
+}
+
+.inputBox{
+
+    color: rgb(6, 5, 5);
+    display: block;
+    margin: 25px;
+    padding: 10px;
+    width: 400px;
+    height: 15px;
+    border: 1px solid rgb(38, 41, 33);
+    margin-left: 300px;
+}
+
+button{
+    padding: 5px;
+    margin-left: 300px;
+    width: 120px;
+    background-color: rgb(227, 163, 173);
+    font-size: 15px;
+    border: 1px solid rgb(82, 5, 159);
+}
+
+#singUpButton{
+    margin-left: 300px;
+}
